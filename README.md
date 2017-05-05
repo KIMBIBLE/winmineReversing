@@ -11,4 +11,5 @@ I do rerversing windows XP's winmine game with ollydbg, IDA
 4. You can get mine map, and other mine information in running process.
 
 <result>
-![mine](./winmineReversing/mine.PNG)
+
+![Alt text](./winmineReversing/mine.PNG)
