@@ -12,4 +12,4 @@ I do rerversing windows XP's winmine game with ollydbg, IDA
 
 <result>
 
-![Alt text](./winmineReversing/mine.PNG)
+![Alt text](https://github.com/Oss9935/winmineReversing/blob/master/mine.PNG)
